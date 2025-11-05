@@ -12,7 +12,7 @@ function Layout({ children }) {
           <img src={logo} alt="DevOps Shack logo" className="logo" />
           <div>
             <h1 className="brand-title">Nouman Yousaf</h1>
-            <p className="nav-subtitle">User Managements</p>
+            <p className="nav-subtitle">User Management </p>
           </div>
         </div>
       </header>
